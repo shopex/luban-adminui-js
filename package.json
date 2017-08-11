@@ -1,0 +1,11 @@
+{
+  "name": "luban-adminui",
+  "version": "0.1.0",
+  "description": "luban-adminui",
+  "main": "ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shopex wanglei",
+  "license": "MIT"
+}
